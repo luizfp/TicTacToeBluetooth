@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic-tac-toe</string>
+    <string name="resultado.jogo.venceu">venceu!</string>
+    <string name="resultado.jogo.empate">Deu velha!</string>
+    <string name="acao.jogo.reiniciar">Reiniciar</string>
+    <string name="acao.menu.novo.jogo">Novo Jogo</string>
+    <string name="acao.menu.verifica.ativa.bluetooth">Verificar e ativar bluetooth</string>
+    <string name="acao.menu.listar.devices.pareados">Lista de devices pareados</string>
+    <string name="acao.menu.buscar.devices">Buscar devices</string>
+    <string name="acao.menu.ficar.visivel.bluetooth">Ficar visível</string>
+
+</resources>
